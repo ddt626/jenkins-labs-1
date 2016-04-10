@@ -1149,6 +1149,9 @@
     <Content Include="Content\Roxy_Fileman\lang\it.json" />
     <Content Include="Content\Roxy_Fileman\lang\pl.json" />
     <Content Include="Content\Roxy_Fileman\lang\pt.json" />
+    <None Include="Properties\PublishProfiles\devophhhueaeub6orc - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\devophhhueaeub6orc - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\Localhost_IIs.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\fineuploader\iframe.xss.response-4.2.2.js" />
     <Content Include="Scripts\fineuploader\jquery.fineuploader-4.2.2.js" />
